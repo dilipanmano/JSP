@@ -4,11 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>Insert title here</title>
-<form action="upload.jsp" method="post" enctype="multipart/form-data">  
-Select File:<input type="file" name="fname"/><br/>  
-<input type="image" src="Execution4.PNG"/>  
-</form>  
+<title>one</title>
+<p>Hello World</p>
 </head>
 <body>
 
